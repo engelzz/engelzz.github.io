@@ -1,7 +1,7 @@
 <h1 align="center">Portifólio - Matheus Engel 💻</h1>
 
 
-<h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://engelzz.github.io/">Confira o projeto aqui</a></h4>
 
 ## 💻 Sobre
 
