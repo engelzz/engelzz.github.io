@@ -82,7 +82,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Páginas de links desenvolvida para cliente.</p>
+          <p>Portfolio page developed for a client.</p>
           <p>HTML - CSS - JS</p>
         </div>
         
@@ -120,7 +120,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>An API which i developed for study proposes, using just NODE.JS and its natives modules.</p>
           <p>HTML - CSS - JS</p>
         </div>
         
@@ -163,7 +163,7 @@ function projetos(section) {
         </div>
        
         <div class="card">
-        <h3>Em breve...</h3>
+        <h3>Soon...</h3>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
@@ -177,8 +177,8 @@ function projetos(section) {
           />
         </svg>
         <p>
-          Aprendizado constante! <br />
-          Em breve muitos outros projetos.
+        Constant learning! <br />
+        Soon many other projects.
         </p>
         <svg
           xmlns="http://www.w3.org/2000/svg"
