@@ -197,9 +197,9 @@ function projetos(section) {
         <div class="card">
           <h3>My Portifolio</h3>
           <div class="img-wrapper">
-            <img src="./images/projects/.gif" alt="Imagem do projeto." />
+            <img src="./images/projects/Portifólio Matheus.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/engelzz/PortifólioMatheus.gif" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/engelzz/engelzz.github.io" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -213,7 +213,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://engelzz.github.io/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
