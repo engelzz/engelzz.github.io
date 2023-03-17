@@ -13,7 +13,7 @@ Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
       <img src="https://github.com/engelzz.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/engelzz">Matheus Engel.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/engelzz">Matheus Engel.</a> 🙋‍♂️
     </td>
   </tr>
 </table>
