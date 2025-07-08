@@ -203,9 +203,9 @@ function projetos(section) {
         </div>
         
         <div class="card">
-          <h3>My Portifolio</h3>
+          <h3>Foodiary</h3>
           <div class="img-wrapper">
-            <img src="./images/projects/Portifólio Matheus.gif" alt="Imagem do projeto." />
+            <img src="./images/projects/Foodiary.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/engelzz/engelzz.github.io" target="_blank" title="Repositório no Github">
                 <svg
@@ -237,8 +237,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-          This site I developed to introduce myself and my
-          projects.
+          An APP that allows you to create a diet,track you calories and register your meals by taking photos using AI.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
